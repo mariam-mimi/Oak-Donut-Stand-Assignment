@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Apr 01 08:14:09 EDT 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-0178-8d5a-ec9e-00000e0f7420 
+on database directory C:\Users\Gokhan\Documents\NetBeansProjects\OtherCode\HotDogStandDAOFly\hotdogstanddb with class loader sun.misc.Launcher$AppClassLoader@4aa298b7 
+Loaded from file:/C:/Users/Gokhan/Documents/NetBeansProjects/OtherCode/HotDogStandDAOFly/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_101-b13
+user.dir=C:\Users\Gokhan\Documents\NetBeansProjects\OtherCode\HotDogStandDAOFly
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
