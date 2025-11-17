@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/HotDogStandDAOFlyGUI/lib/flyway-core-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/HotDogStandDAOFlyGUI/lib/derbyclient.jar!/" />
+      <root url="jar://$PROJECT_DIR$/HotDogStandDAOFlyGUI/lib/derby.jar!/" />
+      <root url="jar://$PROJECT_DIR$/HotDogStandDAOFlyGUI/lib/derbynet.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
