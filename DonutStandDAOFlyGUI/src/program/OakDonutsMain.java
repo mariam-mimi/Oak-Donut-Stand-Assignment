@@ -51,6 +51,15 @@ public class OakDonutsMain extends JFrame {
         setLocationRelativeTo(null);
         setLayout(new BorderLayout());
 
+        UIManager.put("Panel.background", new Color(255, 248, 240));  // donut cream
+        UIManager.put("Button.background", new Color(255, 223, 186)); // warm beige
+        UIManager.put("Button.foreground", Color.DARK_GRAY);
+        UIManager.put("Label.foreground", new Color(80, 50, 20));     // chocolate brown
+        UIManager.put("Table.background", Color.WHITE);
+        UIManager.put("Table.foreground", Color.BLACK);
+        UIManager.put("List.background", Color.WHITE);
+        UIManager.put("List.foreground", Color.BLACK);
+
         initComponents();
         loadMenuItems();
         updateTotals();
@@ -326,3 +335,4 @@ public class OakDonutsMain extends JFrame {
         });
     }
 }
+
