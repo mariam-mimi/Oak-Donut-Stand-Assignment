@@ -1,0 +1,20 @@
+
+package entity;
+
+import java.util.List;
+import java.util.Optional;
+
+/**
+ * Simple generic DAO interface used by the Oak Donuts project.
+ */
+public interface DAO<T> {
+    Optional<T> get(int id);
+
+    List<T> getAll();
+
+    void insert(T t);
+
+    void update(T t);
+
+    void delete(T t);
+}
