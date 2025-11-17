@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Nov 16 21:58:33 EST 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-019a-8fbf-f6d7-00000dfe5570 
+on database directory C:\Users\maria\Downloads\Oak Donut Stand Assignment\oakdonutsdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@14dad5dc 
+Loaded from file:/C:/Users/maria/Downloads/HotDogStandDAOFlyGUI%20(1)/HotDogStandDAOFlyGUI/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=25+36-3489
+user.dir=C:\Users\maria\Downloads\Oak Donut Stand Assignment
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
